@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'markdown_proofer'
-gem 'rake'
+gem 'rake', '>= 12.3.3'
